@@ -1,0 +1,1 @@
+This repositry is for Data science tasks given by STC.
